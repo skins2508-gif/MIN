@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: cdd7e7f54ba420543943bffd3157ba20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2139814220761500932
+    second: WoundedSheet_0
+  - first:
+      213: 5297725943826717276
+    second: WoundedSheet_1
+  - first:
+      213: 4674554506187024918
+    second: WoundedSheet_2
+  - first:
+      213: 4412637390784549494
+    second: WoundedSheet_3
+  - first:
+      213: -1185330741089896507
+    second: WoundedSheet_4
+  - first:
+      213: 5597433194772369759
+    second: WoundedSheet_5
+  - first:
+      213: 639750503987345215
+    second: WoundedSheet_6
+  - first:
+      213: 388251726825645700
+    second: WoundedSheet_7
+  - first:
+      213: 6625615424013614145
+    second: WoundedSheet_8
+  - first:
+      213: 5764616039605751460
+    second: WoundedSheet_9
+  - first:
+      213: -4092176569859069056
+    second: WoundedSheet_10
+  - first:
+      213: 3872306176515985126
+    second: WoundedSheet_11
+  - first:
+      213: 815630225936562198
+    second: WoundedSheet_12
+  - first:
+      213: -4597993813749892146
+    second: WoundedSheet_13
+  - first:
+      213: -2445601223655299793
+    second: WoundedSheet_14
+  - first:
+      213: 6520051698412507629
+    second: WoundedSheet_15
+  - first:
+      213: 2906012000116845511
+    second: WoundedSheet_16
+  - first:
+      213: -1833275889166764957
+    second: WoundedSheet_17
+  - first:
+      213: 3275001698839720550
+    second: WoundedSheet_18
+  - first:
+      213: -8919306635786412401
+    second: WoundedSheet_19
+  - first:
+      213: 9206365458711083010
+    second: WoundedSheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoundedSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 455
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27e2ead4add42e0800000000000000
+      internalID: -2139814220761500932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a99276dad458940800000000000000
+      internalID: 5297725943826717276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 749
+        width: 164
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aaa787e8a5fd040800000000000000
+      internalID: 4674554506187024918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 755
+        width: 317
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d158e356dc3d30800000000000000
+      internalID: 4412637390784549494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1019
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c77cfb98fbdc8fe0800000000000000
+      internalID: -1185330741089896507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1003
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51136c85d31ead40800000000000000
+      internalID: 5597433194772369759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 999
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fa0f91b9d0e800800000000000000
+      internalID: 639750503987345215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 997
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486efd473e8536500800000000000000
+      internalID: 388251726825645700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 766
+        width: 193
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c3ea6cf1ae2fb50800000000000000
+      internalID: 6625615424013614145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 993
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae483beeb7000050800000000000000
+      internalID: 5764616039605751460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 505
+        width: 230
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08baf5b471ba537c0800000000000000
+      internalID: -4092176569859069056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 993
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee49c083f13db530800000000000000
+      internalID: 3872306176515985126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 771
+        width: 174
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618350d7e53b15b00800000000000000
+      internalID: 815630225936562198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 954
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb7ef3dcf4a030c0800000000000000
+      internalID: -4597993813749892146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 835
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25e3c9f4aa7f0ed0800000000000000
+      internalID: -2445601223655299793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1517
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de15f099970eb7a50800000000000000
+      internalID: 6520051698412507629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 753
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbacf3748a345820800000000000000
+      internalID: 2906012000116845511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 751
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3643deaba45ee86e0800000000000000
+      internalID: -1833275889166764957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 535
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662742281b4237d20800000000000000
+      internalID: 3275001698839720550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_19
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 739
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9a2b0fd1483480800000000000000
+      internalID: -8919306635786412401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoundedSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 493
+        width: 220
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20876e67b9493cf70800000000000000
+      internalID: 9206365458711083010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WoundedSheet_0: -2139814220761500932
+      WoundedSheet_1: 5297725943826717276
+      WoundedSheet_10: -4092176569859069056
+      WoundedSheet_11: 3872306176515985126
+      WoundedSheet_12: 815630225936562198
+      WoundedSheet_13: -4597993813749892146
+      WoundedSheet_14: -2445601223655299793
+      WoundedSheet_15: 6520051698412507629
+      WoundedSheet_16: 2906012000116845511
+      WoundedSheet_17: -1833275889166764957
+      WoundedSheet_18: 3275001698839720550
+      WoundedSheet_19: -8919306635786412401
+      WoundedSheet_2: 4674554506187024918
+      WoundedSheet_20: 9206365458711083010
+      WoundedSheet_3: 4412637390784549494
+      WoundedSheet_4: -1185330741089896507
+      WoundedSheet_5: 5597433194772369759
+      WoundedSheet_6: 639750503987345215
+      WoundedSheet_7: 388251726825645700
+      WoundedSheet_8: 6625615424013614145
+      WoundedSheet_9: 5764616039605751460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
